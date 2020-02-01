@@ -40,3 +40,4 @@ class Solution(object):
                 even_digit_elements_count += 1
             i += 1
         return even_digit_elements_count
+
